@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий и перейдите в него
    ```
-   git clone <Название_вышего_репозитория>
+   git clone https://github.com/avmaslakova/crowd_detection.git
    cd crowd_detection
    ```
 2. Создайте виртуальное окружение
